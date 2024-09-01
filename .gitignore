@@ -1,6 +1,10 @@
 # Compiler files
 cache/
 out/
+zkout/
+lib/
+broadcast/
+.gas-snapshot
 
 # Ignores development broadcast logs
 !/broadcast
